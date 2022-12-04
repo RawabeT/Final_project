@@ -24,7 +24,7 @@ The objectives:
 ### Dataset Link: 
 For security reasons there is no link
 
-### The expected (Machine learning / Deep Learning) Algorithms:
+### Machine learning Algorithms:
 - RandomForestRegressor
 - KNeighborsRegressor
 - DecisionTreeRegressor
